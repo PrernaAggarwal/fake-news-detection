@@ -16,7 +16,7 @@ st.title("📰 Fake News Detection System")
 st.write("Analyze a news article using our fine-tuned DistilBERT model.")
 
 # Replace this with your GitHub Release asset download URL
-MODEL_URL = "PASTE_YOUR_GITHUB_RELEASE_ASSET_URL_HERE"
+MODEL_URL = "https://github.com/PrernaAggarwal/fake-news-detection/releases/download/v1.0/best_distilbert.zip"
 
 MODEL_DIR = "best_distilbert"
 ZIP_PATH = "best_distilbert.zip"
